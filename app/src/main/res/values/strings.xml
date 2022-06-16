@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RandomGenerator</string>
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Black</item>
+        <item>Purple</item>
+        <item>Green</item>
+</string-array>
+    />
+</resources>
